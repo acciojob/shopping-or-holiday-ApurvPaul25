@@ -1,2 +1,25 @@
+*{
+	background-color: gray
+}
 
-/* Your CSS Code here. */
+.buy-list{
+	background-color: #0000
+	padding: 20px
+	width: 300px
+	border: 2px solid #0808
+}
+
+.buy-list li{
+	margin: 8px 0
+}
+
+.holiday-list{
+	background-color: #0001
+	padding: 20px
+	width:300px
+	border:	2px solid #0707
+}
+
+.holiday-list li{
+	margin: 8px 0
+}
