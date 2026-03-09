@@ -1,12 +1,12 @@
 *{
-	background-color: gray
+	background-color: #800000
 }
 
 .buy-list{
-	background-color: #0000
+	background-color: #F5DEB3
 	padding: 20px
 	width: 300px
-	border: 2px solid #0808
+	border: 2px solid 
 }
 
 .buy-list li{
@@ -14,10 +14,10 @@
 }
 
 .holiday-list{
-	background-color: #0001
+	background-color: #8A9A5B
 	padding: 20px
 	width:300px
-	border:	2px solid #0707
+	border:	2px solid 
 }
 
 .holiday-list li{
